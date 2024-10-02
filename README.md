@@ -6,3 +6,5 @@ Bachelor of Science in Management
 Data Analytics Certificate
 
 ### Work Experience
+
+### Project
