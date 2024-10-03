@@ -1,5 +1,11 @@
 titles: Luis Alva
 #logo: /assets/img/headshot_circle.png
-#description: text below image
+description: Technical Skills 
+* SQL
+* Python
+* dbt
+* Snowflake
+* Looker
+* Tableau
 show_downloads: true
 theme: jekyll-theme-minimal
