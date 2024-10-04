@@ -17,7 +17,8 @@ My core competencies include analyzing large and complex datasets to dentify pat
 
 ### Projects
 
-[American Hospital Association Survey Data Analysis](https://luisalva1987.github.io/American_Hospital_Association_Survey/) 
+### [American Hospital Association Survey Data Analysis](https://luisalva1987.github.io/American_Hospital_Association_Survey/) 
+
 For this project I used SQL to analyze survey data from the American Hospital Association (AHA) from patients’ perspectives on hospital care in order to uncover health care issues and trends.
 
 
